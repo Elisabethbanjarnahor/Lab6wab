@@ -20,6 +20,16 @@ CDN Bootstrap JS	Agar komponen seperti Navbar bisa berfungsi (toggle menu, modal
 
 ![foto](https://github.com/Elisabethbanjarnahor/Lab6wab/blob/e78b44ed3e07c8668ddcacf6745427ee77f0ef05/ss%20foto/Screenshot%202025-10-29%20102626.png)
 
+```Penjelasan:
+Class	Fungsi
+.container	Area pembungkus utama
+.row	Menandakan 1 baris grid
+.col	Kolom otomatis, 3 kolom dibagi rata (masing-masing 4 dari 12)
+.bg-primary, .bg-success, .bg-warning	Warna latar bawaan Bootstrap
+.text-white, .text-dark	Warna teks
+.p-3	Padding bawaan Bootstrap
+```
+
 ![foto](https://github.com/Elisabethbanjarnahor/Lab6wab/blob/e78b44ed3e07c8668ddcacf6745427ee77f0ef05/ss%20foto/Screenshot%202025-10-29%20105234.png)
 
 ![foto](https://github.com/Elisabethbanjarnahor/Lab6wab/blob/e78b44ed3e07c8668ddcacf6745427ee77f0ef05/ss%20foto/Screenshot%202025-10-29%20110233.png)
