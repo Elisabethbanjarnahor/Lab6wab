@@ -48,5 +48,13 @@ Bagian	Fungsi
 
 ![foto](https://github.com/Elisabethbanjarnahor/Lab6wab/blob/e78b44ed3e07c8668ddcacf6745427ee77f0ef05/ss%20foto/Screenshot%202025-10-29%20113422.png)
 
+```Penjelasan Singkat
+Bagian	Fungsi
+Navbar	Navigasi ke Home, Tentang, dan Portfolio
+Tentang Saya	Pakai .row dan dua .col (foto kiri, teks kanan)
+Portfolio Saya	Pakai .row dan .col-md-4 untuk 3 card sejajar
+Footer	Penutup halaman, berwarna gelap
+Bootstrap CDN	Untuk styling otomatis dan layout responsif
+```
 
 
