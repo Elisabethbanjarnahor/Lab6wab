@@ -32,6 +32,16 @@ Class	Fungsi
 
 ![foto](https://github.com/Elisabethbanjarnahor/Lab6wab/blob/e78b44ed3e07c8668ddcacf6745427ee77f0ef05/ss%20foto/Screenshot%202025-10-29%20105234.png)
 
+```Penjelasan:
+Bagian	Fungsi
+.navbar	Elemen navigasi utama
+.navbar-expand-lg	Navbar melebar di layar besar
+.navbar-dark bg-dark	Tema warna gelap
+.navbar-brand	Logo atau nama situs
+.navbar-toggler	Tombol hamburger (muncul di HP)
+.nav-link	Link menu navigasi
+```
+
 ![foto](https://github.com/Elisabethbanjarnahor/Lab6wab/blob/e78b44ed3e07c8668ddcacf6745427ee77f0ef05/ss%20foto/Screenshot%202025-10-29%20110233.png)
 
 ![foto](https://github.com/Elisabethbanjarnahor/Lab6wab/blob/e78b44ed3e07c8668ddcacf6745427ee77f0ef05/ss%20foto/Screenshot%202025-10-29%20111221.png)
