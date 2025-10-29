@@ -5,3 +5,4 @@
 ## Kelas        :Ti. 24 .A5 ##
 
 ## foto dan penjelasan ##
+![foto]()
